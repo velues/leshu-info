@@ -1,0 +1,9 @@
+{
+    "name": "mip-leshu-reservation",
+    "version": "1.0",
+    "description":"预约插件",
+    "author": {
+        "name": "游戏预约",
+        "email": "2880589015@leshu.com"
+    }
+}
